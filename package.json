@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/matrix",
-	"version": "3.1.35",
+	"version": "3.1.36",
 	"description": "ctx-core matrix",
 	"type": "module",
 	"main": "lib.js",
@@ -30,7 +30,7 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/math": "^4.1.38"
+		"@ctx-core/math": "^4.1.39"
 	},
 	"devDependencies": {
 		"typescript": "^3.9.3"
