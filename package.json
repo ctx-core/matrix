@@ -2,6 +2,20 @@
 	"name": "@ctx-core/matrix",
 	"version": "3.1.67",
 	"description": "ctx-core matrix",
+	"keywords": [
+		"ctx-core",
+		"matrix"
+	],
+	"homepage": "https://github.com/ctx-core/matrix#readme",
+	"bugs": {
+		"url": "https://github.com/ctx-core/matrix/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ctx-core/matrix/issues"
+	},
+	"license": "Apache-2.0",
+	"author": "Brian Takita",
 	"main": "./index.js",
 	"module": "./index.js",
 	"types": "./index.ts",
@@ -9,31 +23,17 @@
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
 		"compile": "tsc -b",
-		"prepublishOnly": "npm run compile",
-		"exec": "$@"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ctx-core/matrix/issues"
-	},
-	"keywords": [
-		"ctx-core",
-		"matrix"
-	],
-	"author": "Brian Takita",
-	"license": "Apache-2.0",
-	"bugs": {
-		"url": "https://github.com/ctx-core/matrix/issues"
-	},
-	"homepage": "https://github.com/ctx-core/matrix#readme",
-	"publishConfig": {
-		"access": "public"
+		"exec": "$@",
+		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/math": "^4.1.69"
+		"@ctx-core/math": "workspace:*"
 	},
 	"devDependencies": {
 		"typescript": "^4.0.2"
+	},
+	"publishConfig": {
+		"access": "public"
 	},
 	"gitHead": "85380c5fef41e23a4c722e8756d6151a61ac72fa"
 }
