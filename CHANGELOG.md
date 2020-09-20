@@ -1,5 +1,13 @@
 # @ctx-core/matrix
 
+## 4.0.2
+
+### Patch Changes
+
+- fix: install issues: using explicit workspace: versioning
+- Updated dependencies [undefined]
+  - @ctx-core/math@5.0.2
+
 ## 4.0.1
 
 ### Patch Changes
