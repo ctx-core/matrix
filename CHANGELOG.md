@@ -1,5 +1,13 @@
 # @ctx-core/matrix
 
+## 4.0.21
+
+### Patch Changes
+
+- typescript: ^4.0.3 -> ^4.0.5
+- Updated dependencies [undefined]
+  - @ctx-core/math@5.0.21
+
 ## 4.0.20
 
 ### Patch Changes
