@@ -1,5 +1,16 @@
 # @ctx-core/matrix
 
+## 5.0.0
+
+### Major Changes
+
+- src directory
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/math@6.0.0
+
 ## 4.0.54
 
 ### Patch Changes
