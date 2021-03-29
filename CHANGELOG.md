@@ -1,5 +1,13 @@
 # @ctx-core/matrix
 
+## 5.0.26
+
+### Patch Changes
+
+- fix: npm publish: https://github.com/npm/cli/issues/2834
+- Updated dependencies [undefined]
+  - @ctx-core/math@6.0.26
+
 ## 5.0.25
 
 ### Patch Changes

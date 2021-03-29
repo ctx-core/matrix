@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/matrix",
-	"version": "5.0.25",
+	"version": "5.0.26",
 	"description": "ctx-core matrix",
 	"keywords": [
 		"ctx-core",
@@ -27,12 +27,13 @@
 		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/math": "workspace:^6.0.25"
+		"@ctx-core/math": "workspace:^6.0.26"
 	},
 	"devDependencies": {
 		"typescript": "^4.2.3"
 	},
 	"publishConfig": {
-		"access": "public"
+		"access": "public",
+		"cache": "~/.npm"
 	}
 }
