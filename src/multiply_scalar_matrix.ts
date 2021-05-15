@@ -1,8 +1,10 @@
-export function multiply_scalar_matrix(scalar, matrix) {
+export function multiply_scalar_matrix(scalar:number, matrix:number[]) {
 	const products = [] as number[]
 	for (let i = 0; i < matrix.length; i++) {
 		products.push(matrix[i] * scalar)
 	}
 	return products
 }
-export const multiply__scalar__matrix = multiply_scalar_matrix
+export {
+	multiply_scalar_matrix as multiply__scalar__matrix
+}

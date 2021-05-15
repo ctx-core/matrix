@@ -1,1 +1,1 @@
-export declare function dot(...matrices: any[]): number;
+export declare function dot(...matrices: number[][]): number;

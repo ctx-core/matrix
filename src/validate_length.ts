@@ -1,4 +1,4 @@
-export function validate_length(arrays) {
+export function validate_length(...arrays:any[][]) {
 	const length = arrays[0].length
 	for (let i = 1; i < arrays.length; i++) {
 		if (length != arrays[i].length) {
@@ -7,4 +7,4 @@ export function validate_length(arrays) {
 	}
 	return length
 }
-export const length__validate = validate_length
+export { validate_length as length__validate }

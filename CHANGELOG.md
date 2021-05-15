@@ -1,5 +1,16 @@
 # @ctx-core/matrix
 
+## 5.1.0
+
+### Minor Changes
+
+- "noImplicitAny": true
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/math@6.1.0
+
 ## 5.0.29
 
 ### Patch Changes

@@ -1,4 +1,4 @@
-export function normalize(matrix: number[], columns_length = 2) {
+export function normalize(matrix:number[], columns_length = 2) {
 	const normalized_matrix = [] as number[]
 	for (let i = 0; i < matrix.length; i += columns_length) {
 		let sum = 0.0
@@ -15,4 +15,4 @@ export function normalize(matrix: number[], columns_length = 2) {
 	}
 	return normalized_matrix
 }
-export const normalize__row__major__matrix = normalize
+export { normalize as normalize__row__major__matrix }

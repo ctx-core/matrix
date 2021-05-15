@@ -1,4 +1,4 @@
-export function _columns_nansum_matrix(matrix: number[], columns_length: number) {
+export function _columns_nansum_matrix(matrix:number[], columns_length:number) {
 	const columns_nansum_matrix = [] as number[]
 	for (let j = 0; j < columns_length; j++) {
 		let column_sum = 0.0
@@ -9,4 +9,4 @@ export function _columns_nansum_matrix(matrix: number[], columns_length: number)
 	}
 	return columns_nansum_matrix
 }
-export const _matrix__nansum__columns = _columns_nansum_matrix
+export { _columns_nansum_matrix as _matrix__nansum__columns }
