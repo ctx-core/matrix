@@ -1,5 +1,13 @@
 # @ctx-core/matrix
 
+## 5.1.2
+
+### Patch Changes
+
+- .npmignore: + ~
+- Updated dependencies [undefined]
+  - @ctx-core/math@6.1.2
+
 ## 5.1.1
 
 ### Patch Changes
