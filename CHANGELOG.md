@@ -1,5 +1,16 @@
 # @ctx-core/matrix
 
+## 5.2.0
+
+### Minor Changes
+
+- dist,types directory: addressing typescript build issues
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/math@6.2.0
+
 ## 5.1.3
 
 ### Patch Changes
