@@ -1,5 +1,16 @@
 # @ctx-core/matrix
 
+## 5.3.0
+
+### Minor Changes
+
+- fix tsc build directory issues
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/math@6.3.0
+
 ## 5.2.1
 
 ### Patch Changes
