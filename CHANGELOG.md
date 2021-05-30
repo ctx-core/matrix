@@ -1,5 +1,18 @@
 # @ctx-core/matrix
 
+## 6.0.0
+
+### Major Changes
+
+- \$ suffix for stores
+- \_ suffix for factory functions
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+  - @ctx-core/math@7.0.0
+
 ## 5.3.1
 
 ### Patch Changes
