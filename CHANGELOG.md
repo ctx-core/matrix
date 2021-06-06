@@ -1,5 +1,13 @@
 # @ctx-core/matrix
 
+## 6.0.1
+
+### Patch Changes
+
+- fix: build: clean up old build files in dist
+- Updated dependencies [undefined]
+  - @ctx-core/math@7.0.11
+
 ## 6.0.0
 
 ### Major Changes
