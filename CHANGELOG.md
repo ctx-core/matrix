@@ -1,5 +1,13 @@
 # @ctx-core/matrix
 
+## 6.0.2
+
+### Patch Changes
+
+- version bump: run build
+- Updated dependencies [undefined]
+  - @ctx-core/math@7.0.12
+
 ## 6.0.1
 
 ### Patch Changes
