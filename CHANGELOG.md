@@ -1,5 +1,21 @@
 # @ctx-core/matrix
 
+## 7.0.2
+
+### Patch Changes
+
+- update dependencies
+
+## 7.0.1
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+  - @ctx-core/math@9.0.0
+
 ## 7.0.0
 
 ### Major Changes
