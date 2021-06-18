@@ -1,1 +1,0 @@
-{"version":3,"file":"unit_matrix_.js","sourceRoot":"","sources":["../unit_matrix_.ts"],"names":[],"mappings":"AAAA,MAAM,UAAU,YAAY,CAAC,MAAa;IACzC,MAAM,WAAW,GAAG,EAAc,CAAA;IAClC,KAAK,IAAI,CAAC,GAAG,CAAC,EAAE,CAAC,GAAG,MAAM,EAAE,CAAC,EAAE,EAAE;QAChC,WAAW,CAAC,IAAI,CAAC,CAAC,CAAC,CAAA;KACnB;IACD,OAAO,WAAW,CAAA;AACnB,CAAC"}
