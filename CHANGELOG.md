@@ -1,5 +1,13 @@
 # @ctx-core/matrix
 
+## 7.0.7
+
+### Patch Changes
+
+- npm run prepare instead of npm run prepublishOnly
+- Updated dependencies [undefined]
+  - @ctx-core/math@9.0.6
+
 ## 7.0.6
 
 ### Patch Changes
