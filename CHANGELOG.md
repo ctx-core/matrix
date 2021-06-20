@@ -1,5 +1,13 @@
 # @ctx-core/matrix
 
+## 7.0.9
+
+### Patch Changes
+
+- fix: deploying \*.js files
+- Updated dependencies [undefined]
+  - @ctx-core/math@9.0.8
+
 ## 7.0.8
 
 ### Patch Changes
