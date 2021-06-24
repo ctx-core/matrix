@@ -1,5 +1,13 @@
 # @ctx-core/matrix
 
+## 7.0.11
+
+### Patch Changes
+
+- tsconfig.json: "lib": ["dom", "ESNext"]
+- Updated dependencies [undefined]
+  - @ctx-core/math@9.0.10
+
 ## 7.0.10
 
 ### Patch Changes
