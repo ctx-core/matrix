@@ -1,5 +1,13 @@
 # @ctx-core/matrix
 
+## 7.0.13
+
+### Patch Changes
+
+- dist directory
+- Updated dependencies [undefined]
+  - @ctx-core/math@9.0.13
+
 ## 7.0.12
 
 ### Patch Changes
