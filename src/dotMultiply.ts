@@ -1,4 +1,4 @@
-import { validate_length } from './validate_length'
+import { validate_length } from './validate_length.js'
 export function dotMultiply(...matrices:number[][]) {
 	const length = validate_length(matrices)
 	const products = [] as number[]
