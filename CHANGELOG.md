@@ -1,5 +1,16 @@
 # @ctx-core/matrix
 
+## 8.0.0
+
+### Major Changes
+
+- "type": "module": module npm type
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/math@10.0.0
+
 ## 7.0.24
 
 ### Patch Changes
