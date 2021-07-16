@@ -1,5 +1,21 @@
 # @ctx-core/matrix
 
+## 8.0.10
+
+### Patch Changes
+
+- fix: sourceMappingURL: "mapRoot": ""
+- Updated dependencies [undefined]
+  - @ctx-core/math@10.0.10
+
+## 8.0.9
+
+### Patch Changes
+
+- tsconfig.json: "target": "es2019"
+- Updated dependencies [undefined]
+  - @ctx-core/math@10.0.9
+
 ## 8.0.8
 
 ### Patch Changes
