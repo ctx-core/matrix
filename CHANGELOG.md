@@ -1,5 +1,13 @@
 # @ctx-core/matrix
 
+## 8.0.6
+
+### Patch Changes
+
+- fix: index.cjs: module.exports = require('./index.js')
+- Updated dependencies [undefined]
+  - @ctx-core/math@10.0.6
+
 ## 8.0.5
 
 ### Patch Changes
