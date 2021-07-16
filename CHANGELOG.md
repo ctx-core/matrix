@@ -1,5 +1,13 @@
 # @ctx-core/matrix
 
+## 8.0.7
+
+### Patch Changes
+
+- "main": "./dist/index.cjs"
+- Updated dependencies [undefined]
+  - @ctx-core/math@10.0.7
+
 ## 8.0.6
 
 ### Patch Changes
