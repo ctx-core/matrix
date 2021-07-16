@@ -1,5 +1,21 @@
 # @ctx-core/matrix
 
+## 8.0.5
+
+### Patch Changes
+
+- back to esm module with cjs using esm npm package to load library
+- Updated dependencies [undefined]
+  - @ctx-core/math@10.0.5
+
+## 8.0.4
+
+### Patch Changes
+
+- back to esm module with cjs using esm npm package to load library
+- Updated dependencies [undefined]
+  - @ctx-core/math@10.0.4
+
 ## 8.0.3
 
 ### Patch Changes
