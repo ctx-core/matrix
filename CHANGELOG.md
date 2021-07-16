@@ -1,5 +1,13 @@
 # @ctx-core/matrix
 
+## 8.0.8
+
+### Patch Changes
+
+- fix: cjs: load as a Promise
+- Updated dependencies [undefined]
+  - @ctx-core/math@10.0.8
+
 ## 8.0.7
 
 ### Patch Changes
