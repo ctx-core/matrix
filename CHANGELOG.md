@@ -1,5 +1,13 @@
 # @ctx-core/matrix
 
+## 8.0.16
+
+### Patch Changes
+
+- typescript: ^4.4.3 -> ^4.4.4
+- Updated dependencies [undefined]
+  - @ctx-core/math@10.0.17
+
 ## 8.0.15
 
 ### Patch Changes
