@@ -1,5 +1,13 @@
 # @ctx-core/matrix
 
+## 8.0.17
+
+### Patch Changes
+
+- compile using swc
+- Updated dependencies
+  - @ctx-core/math@10.0.18
+
 ## 8.0.16
 
 ### Patch Changes
