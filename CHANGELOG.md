@@ -1,5 +1,15 @@
 # @ctx-core/matrix
 
+## 8.0.19
+
+### Patch Changes
+
+- typescript: ^4.4.4 -> ^4.5.2
+- @swc/core: ^1.2.108 -> ^1.2.110
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/math@10.0.20
+
 ## 8.0.18
 
 ### Patch Changes
