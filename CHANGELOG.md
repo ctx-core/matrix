@@ -1,5 +1,23 @@
 # @ctx-core/matrix
 
+## 8.0.21
+
+### Patch Changes
+
+- @swc/cli: ^0.1.51 -> ^0.1.52
+- @swc/core: ^1.2.111 -> ^1.2.113
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/math@10.0.22
+
+## 8.0.20
+
+### Patch Changes
+
+- @swc/core: ^1.2.110 -> ^1.2.111
+- Updated dependencies
+  - @ctx-core/math@10.0.21
+
 ## 8.0.19
 
 ### Patch Changes
