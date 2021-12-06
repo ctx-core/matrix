@@ -1,5 +1,13 @@
 # @ctx-core/matrix
 
+## 8.0.24
+
+### Patch Changes
+
+- @swc/core: ^1.2.117 -> ^1.2.118
+- Updated dependencies
+  - @ctx-core/math@10.0.25
+
 ## 8.0.23
 
 ### Patch Changes
