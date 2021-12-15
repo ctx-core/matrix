@@ -1,5 +1,13 @@
 # @ctx-core/matrix
 
+## 8.0.29
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+- Updated dependencies
+  - @ctx-core/math@10.0.30
+
 ## 8.0.28
 
 ### Patch Changes
