@@ -1,5 +1,13 @@
 # @ctx-core/matrix
 
+## 8.0.30
+
+### Patch Changes
+
+- \*.d.ts export
+- Updated dependencies
+  - @ctx-core/math@10.0.31
+
 ## 8.0.29
 
 ### Patch Changes
