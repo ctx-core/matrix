@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/matrix",
-	"version": "8.0.26",
+	"version": "8.0.27",
 	"description": "ctx-core matrix",
 	"keywords": [
 		"ctx-core",
@@ -32,7 +32,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/math": "workspace:^10.0.27"
+		"@ctx-core/math": "workspace:^10.0.28"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.55",
@@ -43,5 +43,6 @@
 	"publishConfig": {
 		"access": "public",
 		"cache": "~/.npm"
-	}
+	},
+	"svelte": "./dist/index.js"
 }
