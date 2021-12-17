@@ -1,5 +1,13 @@
 # @ctx-core/matrix
 
+## 8.0.32
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+- Updated dependencies
+  - @ctx-core/math@10.0.33
+
 ## 8.0.31
 
 ### Patch Changes
