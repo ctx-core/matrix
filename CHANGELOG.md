@@ -1,5 +1,13 @@
 # @ctx-core/matrix
 
+## 8.0.33
+
+### Patch Changes
+
+- tsconfig.json: "target": "ES2021"
+- Updated dependencies
+  - @ctx-core/math@10.0.34
+
 ## 8.0.32
 
 ### Patch Changes
