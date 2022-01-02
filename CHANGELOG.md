@@ -1,5 +1,14 @@
 # @ctx-core/matrix
 
+## 8.0.35
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/math@10.0.36
+
 ## 8.0.34
 
 ### Patch Changes
