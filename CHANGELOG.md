@@ -1,5 +1,13 @@
 # @ctx-core/matrix
 
+## 8.0.36
+
+### Patch Changes
+
+- version bump
+- Updated dependencies
+  - @ctx-core/math@10.0.37
+
 ## 8.0.35
 
 ### Patch Changes
