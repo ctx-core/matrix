@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/matrix",
-	"version": "8.0.36",
+	"version": "8.0.37",
 	"description": "ctx-core matrix",
 	"keywords": [
 		"ctx-core",
@@ -35,11 +35,11 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/math": "workspace:^10.0.37"
+		"@ctx-core/math": "workspace:^10.0.38"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.55",
-		"@swc/core": "^1.2.125",
+		"@swc/core": "^1.2.127",
 		"rimraf": "^3.0.2",
 		"typescript": "next"
 	},
