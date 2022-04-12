@@ -1,5 +1,13 @@
 # @ctx-core/matrix
 
+## 8.0.40
+
+### Patch Changes
+
+- package.json: exports: update
+- Updated dependencies
+  - @ctx-core/math@10.0.44
+
 ## 8.0.39
 
 ### Patch Changes
