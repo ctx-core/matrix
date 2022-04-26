@@ -1,5 +1,13 @@
 # @ctx-core/matrix
 
+## 8.0.43
+
+### Patch Changes
+
+- @ctx-core/function: 20.7.1
+- Updated dependencies
+  - @ctx-core/math@10.0.47
+
 ## 8.0.42
 
 ### Patch Changes
