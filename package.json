@@ -33,11 +33,11 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/math": "^10.0.47"
+		"@ctx-core/math": "^10.0.48"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.57",
-		"@swc/core": "^1.2.172",
+		"@swc/core": "^1.2.173",
 		"rimraf": "^3.0.2",
 		"typescript": "next"
 	},
