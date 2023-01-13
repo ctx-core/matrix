@@ -1,5 +1,11 @@
 # @ctx-core/matrix
 
+## 8.0.60
+
+### Patch Changes
+
+- rimraf: ^4.0.1 -> ^4.0.4
+
 ## 8.0.59
 
 ### Patch Changes
