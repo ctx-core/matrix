@@ -1,5 +1,13 @@
 # @ctx-core/matrix
 
+## 8.0.63
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+- Updated dependencies
+  - @ctx-core/math@10.3.13
+
 ## 8.0.62
 
 ### Patch Changes
