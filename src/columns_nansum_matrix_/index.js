@@ -1,9 +1,14 @@
-export function columns_nansum_matrix_(matrix:number[], columns_length:number) {
-	const columns_nansum_matrix = [] as number[]
+/**
+ * @param matrix{number[]}
+ * @param columns_length{number}}
+ * @returns {number[]}
+ */
+export function columns_nansum_matrix_(matrix, columns_length) {
+	const columns_nansum_matrix = []
 	for (let j = 0; j < columns_length; j++) {
 		let column_sum = 0.0
 		for (let i = j; i < matrix.length; i += columns_length) {
-			column_sum += (matrix[i] || 0)
+			column_sum += matrix[i] || 0
 		}
 		columns_nansum_matrix.push(column_sum)
 	}

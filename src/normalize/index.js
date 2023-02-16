@@ -1,15 +1,17 @@
-export function normalize(matrix:number[], columns_length = 2) {
-	const normalized_matrix = [] as number[]
+/**
+ * @param matrix{number[]}
+ * @param columns_length{number}
+ * @returns {number[]}
+ */
+export function normalize(matrix, columns_length = 2) {
+	const normalized_matrix = []
 	for (let i = 0; i < matrix.length; i += columns_length) {
 		let sum = 0.0
 		for (let j = 0; j < columns_length; j++) {
-			sum += (matrix[i + j] || 0)
+			sum += matrix[i + j] || 0
 		}
 		for (let j = 0; j < columns_length; j++) {
-			const normalized =
-				sum
-				? matrix[i + j] / sum
-				: 0
+			const normalized = sum ? matrix[i + j] / sum : 0
 			normalized_matrix.push(normalized)
 		}
 	}

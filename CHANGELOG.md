@@ -1,5 +1,12 @@
 # @ctx-core/matrix
 
+## 8.1.0
+
+### Minor Changes
+
+- extract _.js & _.d.ts into directories
+- - mul_dot: aliased by dotMultiply
+
 ## 8.0.71
 
 ### Patch Changes

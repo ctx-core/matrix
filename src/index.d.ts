@@ -1,0 +1,7 @@
+export * from './columns_nansum_matrix_'
+export * from './dot'
+export * from './mul_dot'
+export * from './multiply_scalar_matrix'
+export * from './normalize'
+export * from './unit_matrix_'
+export * from './validate_length'
