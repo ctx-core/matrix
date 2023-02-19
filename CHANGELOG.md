@@ -1,5 +1,11 @@
 # @ctx-core/matrix
 
+## 8.1.5
+
+### Patch Changes
+
+- fix: `throw new Error(error_message)` instead of `throw error_message`
+
 ## 8.1.4
 
 ### Patch Changes
