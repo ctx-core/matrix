@@ -1,5 +1,13 @@
 # @ctx-core/matrix
 
+## 8.1.54
+
+### Patch Changes
+
+- @ctx-core/monorepo: ^20.3.3 -> ^20.3.4
+- Updated dependencies
+  - @ctx-core/math@10.3.73
+
 ## 8.1.53
 
 ### Patch Changes
