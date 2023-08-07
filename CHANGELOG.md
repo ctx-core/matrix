@@ -1,5 +1,11 @@
 # @ctx-core/matrix
 
+## 8.1.69
+
+### Patch Changes
+
+- @ctx-core/math: ^10.4.13 -> ^10.4.14
+
 ## 8.1.68
 
 ### Patch Changes
