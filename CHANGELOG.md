@@ -1,5 +1,13 @@
 # @ctx-core/matrix
 
+## 8.1.76
+
+### Patch Changes
+
+- tsx: ^3.13.0 -> ^3.14.0
+- Updated dependencies
+  - @ctx-core/math@10.4.21
+
 ## 8.1.75
 
 ### Patch Changes

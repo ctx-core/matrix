@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/matrix",
-	"version": "8.1.75",
+	"version": "8.1.76",
 	"description": "ctx-core matrix",
 	"keywords": [
 		"ctx-core",
@@ -33,12 +33,12 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/math": "^10.4.20"
+		"@ctx-core/math": "^10.4.21"
 	},
 	"devDependencies": {
 		"c8": "^8.0.1",
 		"check-dts": "^0.7.2",
-		"tsx": "^3.13.0",
+		"tsx": "^3.14.0",
 		"typescript": "next",
 		"uvu": "^0.5.6"
 	},
