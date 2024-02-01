@@ -1,5 +1,11 @@
 # @ctx-core/matrix
 
+## 8.2.125
+
+### Patch Changes
+
+- ctx-core: ^5.36.3 -> ^5.36.4
+
 ## 8.2.124
 
 ### Patch Changes
