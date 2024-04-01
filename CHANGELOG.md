@@ -1,5 +1,12 @@
 # @ctx-core/matrix
 
+## 8.2.165
+
+### Patch Changes
+
+- Updated dependencies
+  - ctx-core@7.0.0
+
 ## 8.2.164
 
 ### Patch Changes
